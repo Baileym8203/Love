@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(253, 196, 205);
+  font-family: "Ubuntu";
+}
+
+#navbar {
+  background-color: rgba(241, 68, 97, 0.89);
+}
+
+.text-background {
+  border: rgba(255, 255, 255, 0.877) solid 5px;
+  background-color: rgb(243, 145, 202);
+  margin-top: 10px;
+  border-radius: 12px;
+  box-shadow: rgba(22, 22, 22, 0.719) 0px 4px 2px 5px;
+}
+
+.text-padding {
+  padding-left: 10px;
+  text-orientation: sideways;
+}
